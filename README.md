@@ -23,3 +23,16 @@ Would you like to use the `src/ directory` with this project? Y/N
 What import alias would you like configured? `@/*`
 ```
 tunggu sampai proses instalasinya selesai.
+
+## Jalankan Server
+
+``` npm run dev ```
+
+## Defining Routes
+[Defining Routes](https://nextjs.org/docs/app/building-your-application/routing/defining-routes)
+
+## Pages and Layouts
+[Pages and Layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
+
+## Linking and Navigating
+[Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
