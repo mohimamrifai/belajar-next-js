@@ -1,3 +1,3 @@
 <h1 align="center">✨ Next Js ✨</h1>
----
-<p style="text-align: center;">repositori ini adalah perjalanan saya belajar next js.</P>
+
+<p align="center">Repositori ini adalah catatan perjalanan saya dalam mempelajari Next.js, dan saya senang berbagi pengalaman ini dengan Anda.</P>
