@@ -36,3 +36,16 @@ tunggu sampai proses instalasinya selesai.
 
 ## Linking and Navigating
 [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
+
+## Routes Groups
+[Routes Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+
+## Dynamic Routes
+[Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
+
+## Loading UI and Streaming
+[Loading UI and Streaming](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming)
+
+## Error Handling
+[Error Handling](https://nextjs.org/docs/app/building-your-application/routing/error-handling)
+
