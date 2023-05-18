@@ -28,24 +28,20 @@ tunggu sampai proses instalasinya selesai.
 
 ``` npm run dev ```
 
-## Defining Routes
+
+
+- Defining Routes
 [Defining Routes](https://nextjs.org/docs/app/building-your-application/routing/defining-routes)
-
-## Pages and Layouts
+- Pages and Layouts
 [Pages and Layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
-
-## Linking and Navigating
+- Linking and Navigating
 [Linking and Navigating](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
-
-## Routes Groups
+- Routes Groups
 [Routes Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
-
-## Dynamic Routes
+- Dynamic Routes
 [Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
-
-## Loading UI and Streaming
+- Loading UI and Streaming
 [Loading UI and Streaming](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming)
-
-## Error Handling
+- Error Handling
 [Error Handling](https://nextjs.org/docs/app/building-your-application/routing/error-handling)
 
